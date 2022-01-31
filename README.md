@@ -1,11 +1,10 @@
 Ola Mr.Robot, Eu sou a Camila Tássila!
 
-
-- 🔭 Atualmente trabalho com audiovisual
+- 😄 Meus Pronomes: ela/dela
+- 🔭 Atualmente trabalho com audiovisual, sou formada em cinema
 - 🌱 Estou estudando front end
 - 👀 Tenho muito interesse em desenvolvimento mobile
-- 🤔 Aceito todo tipo de suporte para meu aprendizado
-- 😄 Meus Pronomes: ela/dela
+- 🤔 Tenho conhecimento em FIGMA, Adobe XD e Photoshop
 - ⚡ Adoro design de interfaces minimalistas
 
 <div style="display: inline_block"><br>
