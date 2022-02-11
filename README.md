@@ -1,4 +1,4 @@
-Ola Mr.Robot, Eu sou a Camila Tássila!
+Ola eu sou a Camila Tássila!
 
 - 😄 Meus Pronomes: ela/dela
 - 🔭 Atualmente trabalho com audiovisual, sou formada em cinema
